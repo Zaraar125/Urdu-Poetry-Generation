@@ -13,8 +13,8 @@ The dataset has been scrapped from the following website : https://www.rekhta.or
 The scrapped data has been saved in the **scrapped poems.csv**.
 ## Scrapped_Poems.csv:
 The csv file contains the following 3 columns :
-**1. Poem Line :** This is the verse in a particular poem
-**2. Nazm Name :** This is the name of the poem
-**3. Author Name :** This is the name of the author of the poem
+1. **Poem Line :** This is the verse in a particular poem
+2. **Nazm Name :** This is the name of the poem
+3. **Author Name :** This is the name of the author of the poem
 ## Conclusion: 
 Through this project, I aim to showcase the versatility and creativity of N-Gram models in generating Urdu poetry while preserving the aesthetic and linguistic richness of the language. 
