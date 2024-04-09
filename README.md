@@ -6,5 +6,5 @@ The project will explore the use of the following different N-Gram models:
 2. **Bigram** 
 3. **Trigram**
 4. **Backward Bigram**
-5. **Bi-directional Bigram** 
+5. **Bi-directional Bigram**
 Through this project, I aim to showcase the versatility and creativity of N-Gram models in generating Urdu poetry while preserving the aesthetic and linguistic richness of the language. 
