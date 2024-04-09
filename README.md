@@ -32,3 +32,4 @@ Following are the steps to use the spider:
 8. This code can also serve as a base to scrap other websites but Knowledge of scrappy is a must.
 ## Conclusion: 
 Through this project, I aim to showcase the versatility and creativity of N-Gram models in generating Urdu poetry while preserving the aesthetic and linguistic richness of the language. 
+A pdf report is also available of the project .
