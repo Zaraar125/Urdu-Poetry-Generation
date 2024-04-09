@@ -1,6 +1,6 @@
 # Urdu Poetry Generation 
 ## Project Description
-This project aims to generate Urdu poetry using N-Grams based on a curated poetry dataset. The dataset contains a collection of Urdu poems from various poets, serving as the foundation for training and generating new poetic verses. 
+This project aims to generate Urdu poetry using N-Grams based on a scrapped poetry dataset. The dataset contains a collection of Urdu poems from various **Urdu Poets**, serving as the foundation for training and generating new poetic verses. 
 The project will explore the use of different N-Gram models, including Unigram, Bigram, Trigram, Backward Bigram, and Bi-directional Bigram models, to capture the essence and structure of Urdu poetry.
 The Unigram model will focus on individual words, capturing their frequencies and probabilities of occurrence within the dataset. This model will provide a baseline understanding of the vocabulary and word choices typical in Urdu poetry.
 The Bigram model will extend this by considering pairs of consecutive words, allowing for the creation of more contextually relevant poetic lines. By analyzing word pairs, the model can generate verses that maintain a higher level of coherence and semantic flow.
